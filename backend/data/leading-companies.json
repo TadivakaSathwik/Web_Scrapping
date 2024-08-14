@@ -1,0 +1,62 @@
+[
+    {
+        "ticker": "BRK-A",
+        "name": "Berkshire Hathaway Inc.",
+        "price": 647523.0,
+        "market_cap": 930276900864,
+        "day_high": 652040.7,
+        "day_low": 645672.3,
+        "52_week_high": 741971.0,
+        "52_week_low": 502000.0,
+        "volume": 1231,
+        "avg_volume": 5427
+    },
+    {
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "price": 160.62,
+        "market_cap": 386650865664,
+        "day_high": 160.93,
+        "day_low": 159.34,
+        "52_week_high": 175.6,
+        "52_week_low": 143.13,
+        "volume": 3435125,
+        "avg_volume": 7265504
+    },
+    {
+        "ticker": "V",
+        "name": "Visa Inc.",
+        "price": 259.76,
+        "market_cap": 505461833728,
+        "day_high": 261.52,
+        "day_low": 259.13,
+        "52_week_high": 290.96,
+        "52_week_low": 227.78,
+        "volume": 4769870,
+        "avg_volume": 8663511
+    },
+    {
+        "ticker": "WMT",
+        "name": "Walmart Inc.",
+        "price": 67.95,
+        "market_cap": 546558509056,
+        "day_high": 68.22,
+        "day_low": 67.33,
+        "52_week_high": 71.33,
+        "52_week_low": 49.84667,
+        "volume": 9735001,
+        "avg_volume": 15945112
+    },
+    {
+        "ticker": "PG",
+        "name": "Procter & Gamble Company (The)",
+        "price": 170.54,
+        "market_cap": 401459675136,
+        "day_high": 171.26,
+        "day_low": 169.67,
+        "52_week_high": 171.72,
+        "52_week_low": 141.45,
+        "volume": 4003082,
+        "avg_volume": 6482925
+    }
+]

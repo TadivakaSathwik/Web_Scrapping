@@ -1,0 +1,62 @@
+[
+    {
+        "ticker": "TSLA",
+        "name": "Tesla, Inc.",
+        "price": 200.0,
+        "market_cap": 638927962112,
+        "day_high": 200.88,
+        "day_low": 195.11,
+        "52_week_high": 278.98,
+        "52_week_low": 138.8,
+        "volume": 58648274,
+        "avg_volume": 95507375
+    },
+    {
+        "ticker": "AAPL",
+        "name": "Apple Inc.",
+        "price": 216.24,
+        "market_cap": 3287734812672,
+        "day_high": 216.78,
+        "day_low": 211.98,
+        "52_week_high": 237.23,
+        "52_week_low": 164.08,
+        "volume": 42201646,
+        "avg_volume": 66375043
+    },
+    {
+        "ticker": "MSFT",
+        "name": "Microsoft Corporation",
+        "price": 406.02,
+        "market_cap": 3017962684416,
+        "day_high": 408.02,
+        "day_low": 402.2624,
+        "52_week_high": 468.35,
+        "52_week_low": 309.45,
+        "volume": 19276666,
+        "avg_volume": 20101046
+    },
+    {
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc.",
+        "price": 163.67,
+        "market_cap": 2024385150976,
+        "day_high": 163.79,
+        "day_low": 159.06,
+        "52_week_high": 191.75,
+        "52_week_low": 120.21,
+        "volume": 28602285,
+        "avg_volume": 25131506
+    },
+    {
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "price": 166.94,
+        "market_cap": 1752135368704,
+        "day_high": 168.55,
+        "day_low": 165.89,
+        "52_week_high": 201.2,
+        "52_week_low": 118.35,
+        "volume": 36401049,
+        "avg_volume": 43497817
+    }
+]
